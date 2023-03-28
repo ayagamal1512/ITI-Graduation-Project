@@ -7,30 +7,45 @@ This file contains behavior data for two months (October and November 2019) from
 File structure
 Property
 - Description
-* event_time*
+
+* event_time* 
+
 Time when event happened at (in UTC).
+
 * event_type*
+
  view- a user viewed a product
  cart - a user added a product to shopping cart
  remove_from_cart- a user removed a product from shopping cart
  purchase - a user purchased a product
+
 *product_id*
+
 ID of a product
+
 *category_id*
+
 Product's category ID
-Property
-Description
+Property.
+
 *category_code*
+
 Product's category taxonomy (code name) if it was possible to make it. Usually present for meaningful categories and skipped for different kinds of accessories.
+
 *brand*
 Downcased string of brand name.
+
 *price*
 Float price of a product. Present.
+
 *user_id*
 Permanent user ID.
-user_session
+
+*user_session*
 Temporary user's session ID. Same for each user's session. Is changed every time user come back to online store from a long pause.
-Business Requirements
+
+**Business Requirements**
+
 You can support the business in various ways including and not limited to :
 1. the marketing department need your help to identify the following :
 a. which products to feature in the next advertising campaigns and promotions?
