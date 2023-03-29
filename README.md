@@ -1,6 +1,6 @@
 # ITI-Graduation-Project
 ## Data Analysis Track intake 43 
-### Ecommerce Behavior
+### E-commerce Customer Behavior
 E-commerce refers to the buying and selling of goods or services through electronic means, primarily over the internet. It has revolutionized the way people conduct business by enabling consumers to shop from anywhere and at any time, and businesses to reach a global audience. E-commerce platforms provide various features such as online storefronts, shopping carts, payment gateways, and order management systems, among others. The industry has seen tremendous growth in recent years, driven by advancements in technology, increasing consumer demand for convenience and flexibility.
 
 **Overview**
